@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-stylesheet href="ExamenDDL.css"?>
+    <Examenddl xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ExamenDDL.xsd">
+
+
+    <examen>
+        <Id_aspirante>3424</Id_aspirante>
+    </examen>
+
+    <resultados>
+        <Id_aspirante>3424</Id_aspirante>
+    </resultados>
+
+    <aspirante>
+        <Id_aspirante>392</Id_aspirante>
+        <Nombres>Anthony</Nombres>
+        <Apellidos>Chavez Gonzalez</Apellidos>
+        <DNI>4937253A</DNI>
+        <Telefono>672348947</Telefono>
+        <Direccion>Plaza los sapos nº7</Direccion>
+        <Fecha_nacimiento>25/04/1999</Fecha_nacimiento>
+        <Dan>3</Dan>
+        <Cinturon>blanco</Cinturon>
+        <Fecha_Ingreso_Dan>25/04/2018</Fecha_Ingreso_Dan>
+        <FotoAspirante></FotoAspirante>
+        <Tiempo_Dan_Anterior></Tiempo_Dan_Anterior>
+        <FotoDNI></FotoDNI>
+        <FotoCarnetGrados></FotoCarnetGrados>
+    </aspirante>
+
+    <meritos>
+        <Id_aspirante>393</Id_aspirante>
+        <Edad_aspirante>19</Edad_aspirante>
+        <LicenciaActualizada>false</LicenciaActualizada>
+        <TrabajoEscrito>true</TrabajoEscrito>
+    </meritos>
+
+    <Convalidacion_Grados>
+        <Id_aspirante>394</Id_aspirante>
+    </Convalidacion_Grados>
+
+    <Requisitos_Aspirantes>
+        <SolicitudHasta3Dan>true</SolicitudHasta3Dan>
+        <D4anySuperiorCurriculum>false</D4anySuperiorCurriculum>
+    </Requisitos_Aspirantes>
+
+    <DispensaMedica>
+        <Id_aspirante>123</Id_aspirante>
+    </DispensaMedica>
+
+    <Jueces>
+        <Id_aspirante>44</Id_aspirante>
+        <Nombres>Juan jose</Nombres>
+        <Apellidos>Torres</Apellidos>
+        <DiplomaJuez>true</DiplomaJuez>
+    </Jueces>
+
+    <Criterio_Valoracion>
+        <Indumentaria>12</Indumentaria>
+        <AseoPersonal>5</AseoPersonal>
+        <EjecucionTecnica>7</EjecucionTecnica>
+        <Valores>3</Valores>
+        <Respuestas>7</Respuestas>
+    </Criterio_Valoracion>
+
+    <Tribunal>
+        <Numero_jueces>3</Numero_jueces>
+        <Calificacion_final>9</Calificacion_final>
+    </Tribunal>
+
+    <AbonarCuota>
+        <Id_aspirante>22</Id_aspirante>
+    </AbonarCuota>
+
+    <SuspendeExamen>
+        <Id_aspirante>3</Id_aspirante>
+        <SuspendeParcial>true</SuspendeParcial>
+        <SuspendeTotal>true</SuspendeTotal>
+        <SuspendeSegundaFase>true</SuspendeSegundaFase>
+    </SuspendeExamen>
+
+    <Hasta3erDan>
+        <Tecnicas>La grulla</Tecnicas>
+        <Kata>esta</Kata>
+        <Kumite>patada</Kumite>
+        <Campeonatos>3</Campeonatos>
+    </Hasta3erDan>
+
+    <CinturonNegro>
+        <Tecnica_Directa>la anca</Tecnica_Directa>
+        <Tecnica_Circulares>el lorzas</Tecnica_Circulares>
+        <Tecnica_Pierna>la coz</Tecnica_Pierna>
+        <Teoria>Nadar</Teoria>
+        <Kata>1</Kata>
+        <Kumite>2</Kumite>
+    </CinturonNegro>
+
+    <CinturonNegroPrimerDan>
+        <Tecnica_Directa>el vuelo</Tecnica_Directa>
+        <Tecnica_Pierna>la petada</Tecnica_Pierna>
+        <Tecnica_DirectaIndirecta>la mirada</Tecnica_DirectaIndirecta>
+        <Tecnica_Combinada>las focas</Tecnica_Combinada>
+        <Teoria>combinacion ballena</Teoria>
+        <Kata>panza</Kata>
+        <Kumite>grasa</Kumite>
+        <Aplicación_Tecnica>bollos</Aplicación_Tecnica>
+    </CinturonNegroPrimerDan>
+
+    <CinturonNegroSegundoDan>
+        <Tecnica_Base>el topo</Tecnica_Base>
+        <Tecnica_Directa>excavacion</Tecnica_Directa>
+        <Tecnica_DirectaIndirecta>el tunel</Tecnica_DirectaIndirecta>
+        <Tecnica_Pierna>patada cepa</Tecnica_Pierna>
+        <Tecnica_Combinada>las ratas</Tecnica_Combinada>
+        <Teoria>el tunel</Teoria>
+        <Kata>la zarpa</Kata>
+        <Kumite>la pata</Kumite>
+        <Campeonatos>5</Campeonatos>
+        <Tecnicas>4</Tecnicas>
+        <Aplicación_Tecnica>el escapada</Aplicación_Tecnica>
+        <Demo_libre>la caza</Demo_libre>
+    </CinturonNegroSegundoDan>
+
+    <CinturonNegroTercerDan>
+        <Variaciones_Tecnica>Patada</Variaciones_Tecnica>
+        <Teoria>Tochazo</Teoria>
+        <Kata>por atras</Kata>
+        <Kumite>de palo en palo</Kumite>
+        <Campeonatos>4</Campeonatos>
+        <Tecnicas>el nalgazo</Tecnicas>
+        <Aplicaciones>cabeza</Aplicaciones>
+        <Aplicacion_Tecnica>cabezo</Aplicacion_Tecnica>
+        <Demo_libre></Demo_libre>
+    </CinturonNegroTercerDan>
+
+    <CinturonNegroCuartoDan>
+        <Kata>la busqueda</Kata>
+        <Kumite>de la foca</Kumite>
+        <Coloquio>perdida</Coloquio>
+        <Aplicacion_Tecnica>del tunel</Aplicacion_Tecnica>
+        <Demo_libre>de la grasa</Demo_libre>
+    </CinturonNegroCuartoDan>
+
+    <QuintoDanySuperior>
+        <Kata>la peste</Kata>
+        <Coloquio>del sapo volador</Coloquio>
+    </QuintoDanySuperior>
+
+    </Examenddl>
